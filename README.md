@@ -6,7 +6,7 @@ Création d'un projet indiquant la position de la souris sur l'axe X (axe horizo
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/mouse_event/
 
 ## Développez avec
 
