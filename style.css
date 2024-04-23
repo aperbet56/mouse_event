@@ -1,0 +1,56 @@
+/**** Reset ****/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**** stsyle général de la page ****/
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #442ba0;
+    color: #ffffff;
+    font-family: cursive;
+}
+  
+.container {
+    display: flex;
+    text-align: center;
+}
+  
+.mouse__event {
+    min-width: 180px;
+    min-height: 180px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #d3d3d3;
+    border-radius: 50%;
+    margin: 40px;
+    font-size: 30px;
+}
+  
+.mouse__event h2 {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 16px;
+    white-space: nowrap;
+    font-weight: 100;
+    color: #d3d3d3;
+}
+  
+/**** Responsive design ****/
+@media (max-width: 472px) {
+    .container {
+      flex-direction: column;
+    }
+}
