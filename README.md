@@ -11,7 +11,7 @@ Lien vers le projet : https://aperbet56.github.io/mouse_event/
 ## Développez avec
 
 - Utilisation des balises sémantiques HTML5
-- CSS
+- CSS3
 - Flexbox
 - Page web responsive
 - Utilisation d'un normaliseur : le fichier normalize.css
