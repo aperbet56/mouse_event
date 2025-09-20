@@ -1,5 +1,7 @@
 ## MOUSE EVENT
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un projet indiquant la position de la souris sur l'axe X (axe horizontal) et l'axe Y (axe vertical) en temps réél.
@@ -8,7 +10,7 @@ Création d'un projet indiquant la position de la souris sur l'axe X (axe horizo
 
 Lien vers le projet : https://aperbet56.github.io/mouse_event/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS3
